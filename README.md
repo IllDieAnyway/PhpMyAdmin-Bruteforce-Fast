@@ -2,5 +2,6 @@
 A multithreaded bruteforce for PMA
 
 <b>Usage: python PMABRUTE.py https://example.com/phpmyadmin</b>
-![image](https://github.com/user-attachments/assets/dc6c0d1b-668f-4395-ba30-152e9e1586a3)
-![image](https://github.com/user-attachments/assets/c760b3e7-df28-4189-952d-d12097d05307)
+![image](https://github.com/user-attachments/assets/92b8ec2f-6978-4442-a0e8-3131e4fe8976)
+
+![image](https://github.com/user-attachments/assets/400c4ef2-0a73-4b25-b340-b6c946bc8849)
